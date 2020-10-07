@@ -1,5 +1,5 @@
 {
-    "name": "comnipay/common",
+    "name": "redq-comnipay/common",
     "type": "library",
     "description": "Common components for Omnipay payment processing library",
     "keywords": [
