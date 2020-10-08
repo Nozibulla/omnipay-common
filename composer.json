@@ -50,9 +50,9 @@
         "squizlabs/php_codesniffer": "^3.5",
         "phpro/grumphp": "^0.14"
     },
-    "extra": {
+     "extra": {
         "branch-alias": {
-            "dev-Nozibulla-patch-1": "4.0.x-dev"
+            "dev-master": "3.0.x-dev"
         }
     },
     "suggest": {
