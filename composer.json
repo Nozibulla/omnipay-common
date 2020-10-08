@@ -50,6 +50,11 @@
         "squizlabs/php_codesniffer": "^3.5",
         "phpro/grumphp": "^0.14"
     },
+    "extra": {
+        "branch-alias": {
+            "dev-Nozibulla-patch-1": "4.0.x-dev"
+        }
+    },
     "suggest": {
         "league/omnipay": "The default Omnipay package provides a default HTTP Adapter."
     },
